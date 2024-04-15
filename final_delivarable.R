@@ -143,6 +143,3 @@ as.numeric(tdap_2020_us$Estimate....))
 years <- c("2015 - 50.1%", "2016 - 65.9%", "2017 - 66.3%", "2018 - 65.8%", "2019 - 70.7%", "2020 - 70.7%")
 
 pie(values, labels = years, main = "Tdap Vaccination % in United States from 2015-2020")
-
-
-#creating a boxplot 
